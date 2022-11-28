@@ -1,0 +1,3 @@
+all instructions were followed but jenkins could not load properly on the web browser using port number and ip address.
+Mahmoud Farghali - 101347618 
+Jenkins Instance ubuntu 
